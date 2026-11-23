@@ -15,27 +15,9 @@ I enjoy solving complex problems, understanding how things work under the hood, 
 - Experimenting with **LLMs, RAG pipelines, and AI agents**.
 - Building web applications and exploring ideas through hackathons.
 
-### ⚙️ Tools & Technologies
+### ⚙️ Tech Stack
 
-**Languages**
-
-`C++` `Python` `TypeScript` `Rust`
-
-**Frontend**
-
-`React` `Next.js` `Tailwind CSS`
-
-**Backend & Databases**
-
-`Node.js` `Express` `MongoDB` `PostgreSQL`
-
-**AI & Data**
-
-`LangChain` `LangGraph` `Qdrant` `Pandas`
-
-**Tools**
-
-`Git` `Linux` `Docker` `Postman`
+`C++` `Python` `JavaScript` `TypeScript` `Rust` · `React` `Next.js` `Tailwind CSS` · `Node.js` `Express` `MongoDB` `PostgreSQL` · `LangChain` `LangGraph` `Qdrant` · `Git` `Linux` `Docker`
 
 ### 🚀 A little about my journey
 
